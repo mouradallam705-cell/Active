@@ -1,0 +1,6 @@
+{
+  "name": "مُتَتَابِع - متبع استمرارية التمارين",
+  "description": "تطبيق عربي لتتبع أعداء أيام الالتزام بالرياضة، تسجيل التمارين وتصفير العداد عند الانقطاع، مع تقويم الاستمرارية واقتباسات تحفيزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
